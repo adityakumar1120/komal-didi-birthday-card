@@ -560,15 +560,18 @@ footer p{
     gap: 22px;
   }
   .message{
-    font-size: 15px;
+    font-size: 16px;
    }
    /* main{
     height: 90vh;
    } */
+    .break{
+      display: none;
+    }
 }
 @media (max-width:370px) {
   .message{
-    font-size: 12px;
+    font-size: 14px;
    }
 }
 
